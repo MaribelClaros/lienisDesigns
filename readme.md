@@ -6,6 +6,16 @@ E-commerce de bisutería desarrollado en el marco del curso desarollo Web Full S
 - Josmary Pazo
 - Analía Rossoti
 
+<h3 color="red">¡ATENCIÓN!</h3>
+<p>Para que el proyecto funcione es necesario hacer:</p>
+<ol>
+    <li>composer install</li>
+    <li>php artisan migrate</li>
+    <li>crear una bd vacía llamada "lienis_db</li>
+    <li>importar la bd que esta en la carpeta public</li>
+    <li>php artisan storage link (para las imágenes)</li>
+</ol>
+
 
 
 
