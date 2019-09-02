@@ -1,0 +1,71 @@
+
+section{
+  margin: auto;
+  }
+
+.title {justify-content: center;
+  display: flex;
+  text-align: center;
+  margin: 30px;
+  font-size: 30px;}
+
+input{
+	font-size: 12px
+		padding: 2px;
+}
+strong{
+  color:red;
+  font-size:15px;
+}
+.uno{
+  width: 100%;
+	margin: 10px auto 15px;
+}
+
+label{
+  font-weight: bold;
+	color: RGB(46, 139, 87);
+	font-size: 15px
+}
+
+.paises {
+  font-size: 15px;
+	margin-top: 15px;
+	padding: 10px;
+}
+
+.registro{
+	background-color: RGB(46, 139, 87);
+	font-weight: bold;
+	padding: 5px;
+	margin-top: 20px;
+	color: white;
+}
+
+.cancelar{
+	background-color: RGB(255, 105, 180);
+	color: white;
+	padding: 5px;
+	margin-top: 20px;
+	}
+
+
+h2 {
+	margin: 30px auto 50px;
+	font-size: 30px;
+	display: flex;
+align-items: center;}
+
+
+.button {
+ background-color: RGB(46, 139, 87);
+ padding: 5px;
+ margin-top: 40px;
+ color: white;
+}
+
+.invalid {
+	display: none;
+	color: red;
+	font-size: 15px;
+}

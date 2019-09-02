@@ -1,0 +1,44 @@
+* {
+  box-sizing: border-box;
+  font-family: 'Open Sans', 'Montserrat', 'Noto Sans', 'Ubuntu', sans-serif;
+  color: RGB(46, 139, 87);
+}
+
+body {
+      background-image: url("/img/rectangular1.jpg");
+      font-size: 14px;
+}
+
+      p {
+      margin-left: 15px;
+      }
+
+        a, ul {
+      list-style: none;
+      text-decoration: none;
+      align-items: center;
+        }
+
+        ul li a {
+      text-decoration: none;
+      color: RGB(46, 139, 87);
+      font-weight: bold;
+        }
+
+      h1, h2, h3, h4 {
+       color: RGB(46, 139, 87);
+      }
+
+
+
+      @media (min-width:768px) {
+        *{
+          font-size: 16px;
+        }
+}
+
+      @media (min-width:1200px) {
+        *{
+          font-size: 18px;
+        }
+}
