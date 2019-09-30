@@ -11,7 +11,7 @@ E-commerce de bisutería desarrollado en el marco del curso desarollo Web Full S
 <ol>
     <li>composer install</li>
     <li>crear una base de datos vacía llamada "lienis_db"</li>
-    <li>importar la base de datos que esta en la carpeta public</li>
+    <li>importar la base de datos que esta en la carpeta database</li>
     <li>php artisan storage link (para las imágenes)</li>
 </ol>
 
